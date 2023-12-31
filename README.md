@@ -1,1 +1,1 @@
-# tables-connectivity-from-python-to-sql-
+# tables-connectivity-from-python-to-sql
